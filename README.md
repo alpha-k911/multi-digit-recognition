@@ -6,3 +6,4 @@
 > Accuracy: 82%
 
 ### Model
+![model](model_summay.png)
