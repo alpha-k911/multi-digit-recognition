@@ -1,4 +1,8 @@
 # Multi-digit-recognition
 
 ### Methodology
-![](IVP Presentation.jpg)
+![Workflow](IVP%20Presentation.jpg)
+
+> Accuracy: 82%
+
+### Model
