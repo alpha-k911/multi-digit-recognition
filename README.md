@@ -6,4 +6,7 @@
 > Accuracy: 82%
 
 ### Model
-![model](model_summay.png)
+<p align="center">
+  <img width="" height="800" src="model_summay.png">
+</p>
+
